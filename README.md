@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbaz-shrirangapattan&label=Profile%20views&color=0e75b6&style=flat" alt="arbaz-shrirangapattan" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://arbazshrirangapattan.netlify.app/)
+- 🔭 I’m currently working on [Learning Managament System]
 
 - 🌱 I’m currently learning **Cyber-Security**
 
